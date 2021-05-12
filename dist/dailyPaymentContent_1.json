@@ -1,0 +1,58 @@
+[
+  {
+    "faqId": 1,
+    "issueContent_ch": "流连侠支持什么缴费业务?",
+    "issueContent_en": "What types of payment services does Elinking support?",
+    "issueContent_cht": "流連俠支持什麼繳費業務?",
+    "issueContent_my": "Apakah jenis perkhidmatan pembayaran yang disokong oleh Elinking?",
+    "issueContent_id": "Jenis layanan pembayaran apa yang didukung oleh Elinking?"
+  },
+  {
+    "faqId": 2,
+    "issueContent_ch": "如何使用流连侠办理缴费业务？",
+    "issueContent_en": "How to use Elinking to pay the bills?",
+    "issueContent_cht": "如何使用流连侠办理缴费业务？",
+    "issueContent_my": "Bagaimana menggunakan Elinking untuk membayar bil?",
+    "issueContent_id": "Bagaimana cara menggunakan Elinking untuk membayar tagihan?"
+  },
+  {
+    "faqId": 3,
+    "issueContent_ch": "如何在流连侠缴纳预付话费?",
+    "issueContent_en": "How do I pay the prepaid bill on Elinking?",
+    "issueContent_cht": "如何在流连侠缴纳预付话费?",
+    "issueContent_my": "Bagaimana saya membayar bil prabayar di Elinking?",
+    "issueContent_id": "Bagaimana cara saya membayar tagihan prabayar di Elinking?"
+  },
+  {
+    "faqId": 4,
+    "issueContent_ch": "如何在流连侠上购买游戏劵?",
+    "issueContent_en": "How to buy game voucher on Elinking?",
+    "issueContent_cht": "如何在流连侠上购买游戏劵?",
+    "issueContent_my": "Bagaimana untuk membeli baucar permainan di Elinking?",
+    "issueContent_id": "Bagaimana cara membeli voucher game di Elinking?"
+  },
+  {
+    "faqId": 5,
+    "issueContent_ch": "如何在流连侠办理游戏充值业务?",
+    "issueContent_en": "How to top-up the game on Elinking?",
+    "issueContent_cht": "如何在流连侠办理游戏充值业务?",
+    "issueContent_my": "Bagaimana untuk menambah permainan di Elinking?",
+    "issueContent_id": "Bagaimana cara top-up game di Elinking?"
+  },
+  {
+    "faqId": 6,
+    "issueContent_ch": "如何在流连侠办理流量充值?",
+    "issueContent_en": "How to top up for the Data?",
+    "issueContent_cht": "如何在流連俠辦理流量充值?",
+    "issueContent_my": "Bagaimana untuk menambah data?",
+    "issueContent_id": "Bagaimana cara top up Data?"
+  },
+  {
+    "faqId": 7,
+    "issueContent_ch": "各缴费机构的业务规则是什么？",
+    "issueContent_en": "What are the rules of payment institutions?",
+    "issueContent_cht": "各繳費機構的業務規則是什麼？",
+    "issueContent_my": "Apakah peraturan institusi pembayaran?",
+    "issueContent_id": "Apa aturan lembaga pembayaran?"
+  }
+]

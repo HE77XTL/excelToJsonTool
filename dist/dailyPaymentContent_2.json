@@ -1,0 +1,18 @@
+[
+  {
+    "faqId": 1,
+    "issueContent_ch": "生活缴费优惠劵怎么使用呢？",
+    "issueContent_en": "How to use Bill payment voucher?",
+    "issueContent_cht": "生活繳費優惠劵怎麼使用呢？",
+    "issueContent_my": "Bagaimana untuk menggunakan kupon pembayaran Bil?",
+    "issueContent_id": "Bagaimana cara menggunakan voucher pembayaran tagihan?"
+  },
+  {
+    "faqId": 2,
+    "issueContent_ch": "订单显示订购失败，已支付的金额会退款吗？",
+    "issueContent_en": "The order shows that the order has failed. Will the paid amount be refunded?",
+    "issueContent_cht": "订单显示订购失败，已支付的金额会退款吗？",
+    "issueContent_my": "Pesanan menunjukkan bahawa pesanan telah gagal. Adakah jumlah yang dibayar akan dikembalikan?",
+    "issueContent_id": "Pesanan tersebut menunjukkan bahwa pesanan telah gagal. Apakah jumlah yang telah dibayarkan akan dikembalikan?"
+  }
+]
