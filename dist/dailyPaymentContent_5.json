@@ -1,1 +1,18 @@
-[{"faqId":1,"issueContent_ch":"生活缴费缴错账号能否退款？","issueContent_en":"Can I get the refund if I made a wrong payment?","issueContent_cht":"生活繳費繳錯賬號能否退款？","issueContent_my":"Bolehkah saya mendapatkan bayaran balik sekiranya saya membuat pembayaran yang salah?","issueContent_id":"Bisakah saya mendapatkan pengembalian uang jika saya melakukan pembayaran yang salah?"},{"faqId":2,"issueContent_ch":"为什么已经生活缴费成功了，却被催缴欠费？","issueContent_en":"My payment has been successful but I still get the arrearage notification? ","issueContent_cht":"爲什麽已經生活繳費成功了，卻被催繳欠費？","issueContent_my":"Pembayaran saya berjaya tetapi saya masih mendapat pemberitahuan tunggakan pembayaran?","issueContent_id":"Pembayaran saya telah berhasil tetapi saya masih mendapatkan pemberitahuan tunggakan?"}]
+[
+  {
+    "faqId": 1,
+    "issueContent_ch": "生活缴费缴错账号能否退款？",
+    "issueContent_en": "Can I get the refund if I made a wrong payment?",
+    "issueContent_cht": "生活繳費繳錯賬號能否退款？",
+    "issueContent_my": "Bolehkah saya mendapatkan bayaran balik sekiranya saya membuat pembayaran yang salah?",
+    "issueContent_id": "Bisakah saya mendapatkan pengembalian uang jika saya melakukan pembayaran yang salah?"
+  },
+  {
+    "faqId": 2,
+    "issueContent_ch": "为什么已经生活缴费成功了，却被催缴欠费？",
+    "issueContent_en": "My payment has been successful but I still get the arrearage notification? ",
+    "issueContent_cht": "爲什麽已經生活繳費成功了，卻被催繳欠費？",
+    "issueContent_my": "Pembayaran saya berjaya tetapi saya masih mendapat pemberitahuan tunggakan pembayaran?",
+    "issueContent_id": "Pembayaran saya telah berhasil tetapi saya masih mendapatkan pemberitahuan tunggakan?"
+  }
+]

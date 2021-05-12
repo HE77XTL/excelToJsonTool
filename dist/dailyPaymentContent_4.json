@@ -1,1 +1,26 @@
-[{"faqId":1,"issueContent_ch":"如何查询我的缴费记录？","issueContent_en":"How to check my payment record?","issueContent_cht":"如何查詢我的繳費記錄？","issueContent_my":"How to check my payment record?","issueContent_id":"Bagaimana cara memeriksa catatan pembayaran saya?"},{"faqId":2,"issueContent_ch":"如何查询账户的余额和欠费情况？","issueContent_en":"How to check the account balance and arrears?","issueContent_cht":"如何查询账户的余额和欠费情况？","issueContent_my":"Bagaimana untuk memeriksa baki dan tunggakan akaun?","issueContent_id":"Bagaimana cara memeriksa saldo dan tunggakan akun?"},{"faqId":3,"issueContent_ch":"如何查询我所购买的PIN码？","issueContent_en":"How to check my purchased PIN?","issueContent_cht":"如何查詢我所購買的PIN碼？","issueContent_my":"Bagaimana untuk membuat pertanyaan saya membeli PIN?","issueContent_id":"Bagaimana cara memeriksa PIN yang saya beli?"}]
+[
+  {
+    "faqId": 1,
+    "issueContent_ch": "如何查询我的缴费记录？",
+    "issueContent_en": "How to check my payment record?",
+    "issueContent_cht": "如何查詢我的繳費記錄？",
+    "issueContent_my": "How to check my payment record?",
+    "issueContent_id": "Bagaimana cara memeriksa catatan pembayaran saya?"
+  },
+  {
+    "faqId": 2,
+    "issueContent_ch": "如何查询账户的余额和欠费情况？",
+    "issueContent_en": "How to check the account balance and arrears?",
+    "issueContent_cht": "如何查询账户的余额和欠费情况？",
+    "issueContent_my": "Bagaimana untuk memeriksa baki dan tunggakan akaun?",
+    "issueContent_id": "Bagaimana cara memeriksa saldo dan tunggakan akun?"
+  },
+  {
+    "faqId": 3,
+    "issueContent_ch": "如何查询我所购买的PIN码？",
+    "issueContent_en": "How to check my purchased PIN?",
+    "issueContent_cht": "如何查詢我所購買的PIN碼？",
+    "issueContent_my": "Bagaimana untuk membuat pertanyaan saya membeli PIN?",
+    "issueContent_id": "Bagaimana cara memeriksa PIN yang saya beli?"
+  }
+]

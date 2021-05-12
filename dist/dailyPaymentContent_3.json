@@ -1,1 +1,26 @@
-[{"faqId":1,"issueContent_ch":"订单详情中的充值中、支付成功、充值失败分别代表的是什么意思？","issueContent_en":"What are the meanings of recharging, payment success and recharge failure in order details?","issueContent_cht":"訂單詳情中的充值中、支付成功、充值失敗分別代表的是什麼意思？","issueContent_my":"Apakah makna pengecasan, kejayaan pembayaran dan kegagalan cas semula dalam butiran terperinci?","issueContent_id":"Apa yang dimaksud dengan Isi Ulang, Pembayaran Berhasil, dan Isi Ulang Gagal di Detail Pesanan?"},{"faqId":2,"issueContent_ch":"我的付款成功了, 但我的账单还没有显示。我应该怎么做？","issueContent_en":"My payment has been successful but my bill is yet to be updated. What should I do?\n","issueContent_cht":"我的付款成功了, 但我的賬單還沒有顯示。我應該怎麽做？","issueContent_my":"Pembayaran saya berjaya tetapi bil saya masih belum dikemas kini. Apa patut saya buat?","issueContent_id":"Pembayaran saya berhasil tetapi tagihan saya belum diperbarui. Apa yang harus saya lakukan?"},{"faqId":3,"issueContent_ch":"生活缴费成功后，多久能到账？","issueContent_en":"How long can I get to the account after the payment is successful?","issueContent_cht":"生活繳費成功後，多久能到賬？","issueContent_my":"Berapa lama saya boleh masuk ke akaun setelah pembayaran berjaya?","issueContent_id":"Berapa lama saya bisa masuk ke akun setelah pembayaran berhasil?"}]
+[
+  {
+    "faqId": 1,
+    "issueContent_ch": "订单详情中的充值中、支付成功、充值失败分别代表的是什么意思？",
+    "issueContent_en": "What are the meanings of recharging, payment success and recharge failure in order details?",
+    "issueContent_cht": "訂單詳情中的充值中、支付成功、充值失敗分別代表的是什麼意思？",
+    "issueContent_my": "Apakah makna pengecasan, kejayaan pembayaran dan kegagalan cas semula dalam butiran terperinci?",
+    "issueContent_id": "Apa yang dimaksud dengan Isi Ulang, Pembayaran Berhasil, dan Isi Ulang Gagal di Detail Pesanan?"
+  },
+  {
+    "faqId": 2,
+    "issueContent_ch": "我的付款成功了, 但我的账单还没有显示。我应该怎么做？",
+    "issueContent_en": "My payment has been successful but my bill is yet to be updated. What should I do?\n",
+    "issueContent_cht": "我的付款成功了, 但我的賬單還沒有顯示。我應該怎麽做？",
+    "issueContent_my": "Pembayaran saya berjaya tetapi bil saya masih belum dikemas kini. Apa patut saya buat?",
+    "issueContent_id": "Pembayaran saya berhasil tetapi tagihan saya belum diperbarui. Apa yang harus saya lakukan?"
+  },
+  {
+    "faqId": 3,
+    "issueContent_ch": "生活缴费成功后，多久能到账？",
+    "issueContent_en": "How long can I get to the account after the payment is successful?",
+    "issueContent_cht": "生活繳費成功後，多久能到賬？",
+    "issueContent_my": "Berapa lama saya boleh masuk ke akaun setelah pembayaran berjaya?",
+    "issueContent_id": "Berapa lama saya bisa masuk ke akun setelah pembayaran berhasil?"
+  }
+]
